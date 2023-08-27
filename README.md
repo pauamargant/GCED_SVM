@@ -1,6 +1,9 @@
 # SVM classifier in AMPL
-This project implements a
- 
+This project implements different versions of a SVM classifier in AMPL
+## Authors
+- Benet Ramió
+- Pau Amargant
+  
 ## Usage
 In order to run the project, Python 3.11 and the following packages have been used. Note that it has been run using Linux:
 - numpy
